@@ -1,0 +1,193 @@
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.exe
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.deps.json
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.runtimeconfig.json
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.dll
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.pdb
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.frmMDI.resources
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.GenerateResource.cache
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.AssemblyInfoInputs.cache
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.AssemblyInfo.cs
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.dll
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\refint\QLNhansu.dll
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.pdb
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.genruntimeconfig.cache
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\ref\QLNhansu.dll
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmThongtinnhanvien.resources
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.AssemblyReference.cache
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.CopyComplete
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNHANSU\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmTrinhdohocvan.resources
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNHANSU\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmPhongban.resources
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNHANSU\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmChucvu.resources
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNHANSU\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmChamcong.resources
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNHANSU\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmLichlamviec.resources
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNHANSU\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmLichnghiphep.resources
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNHANSU\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmLuong.resources
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNHANSU\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmHotro.resources
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNHANSU\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.frmLogin.resources
+D:\DEV\C#\Demo\QUANLYNHANSU\QLNHANSU\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.frmRegister.resources
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.exe
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.deps.json
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.runtimeconfig.json
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.dll
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.pdb
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.AssemblyReference.cache
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.frmLogin.resources
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.frmMDI.resources
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.frmRegister.resources
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmChamcong.resources
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmChucvu.resources
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmHotro.resources
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmLichlamviec.resources
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmLichnghiphep.resources
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmLuong.resources
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmPhongban.resources
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmThongtinnhanvien.resources
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmTrinhdohocvan.resources
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.GenerateResource.cache
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.AssemblyInfoInputs.cache
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.AssemblyInfo.cs
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.CoreCompileInputs.cache
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.Up2Date
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.dll
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\refint\QLNhansu.dll
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.pdb
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.genruntimeconfig.cache
+C:\Users\thuva\OneDrive\Documents\CÔNG NGHỆ. NET_Nhóm 4_09_TMĐT\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\ref\QLNhansu.dll
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.frmLogin.resources
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.frmRegister.resources
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmChamcong.resources
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmChucvu.resources
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmHotro.resources
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmLichlamviec.resources
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmLichnghiphep.resources
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmLuong.resources
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmPhongban.resources
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmThongtinnhanvien.resources
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmTrinhdohocvan.resources
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.AssemblyInfo.cs
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.dll
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\refint\QLNhansu.dll
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.pdb
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.exe
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.deps.json
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.runtimeconfig.json
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.dll
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.pdb
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.CopyComplete
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.genruntimeconfig.cache
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\ref\QLNhansu.dll
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.Properties.Resources.resources
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.Qua.resources
+C:\Users\PC\Downloads\QUANLYNHANSU\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmNhanVien.resources
+C:\Users\ASUS\Downloads\QUANLYNHANSU (1)\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\QUANLYNHANSU (1)\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.dll
+C:\Users\ASUS\Downloads\QUANLYNHANSU (1)\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\refint\QLNhansu.dll
+C:\Users\ASUS\Downloads\QUANLYNHANSU (1)\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\refint\QLNhansu.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.frmLogin.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.frmRegister.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmChamcong.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmChucvu.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmHotro.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmLichlamviec.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmLichnghiphep.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmLuong.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmNhanVien.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmPhongban.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmThongtinnhanvien.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.exe
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\QLNhansu.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.csproj.Up2Date
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\ref\QLNhansu.dll
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.frmMDI.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\QLNhansu\QLNhansu\obj\Debug\net7.0-windows\QLNhansu.View.frmQLHocPhan.resources

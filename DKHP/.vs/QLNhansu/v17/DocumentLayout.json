@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\quanlynhansu\\qlnhansu\\qlnhansu\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|solutionrelative:qlnhansu\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\qlnhansu\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|solutionrelative:qlnhansu\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\qlnhansu\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|solutionrelative:qlnhansu\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmMDI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|solutionrelative:QLNhansu\\frmMDI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\qlnhansu\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|solutionrelative:qlnhansu\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\qlnhansu\\frmmdi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|solutionrelative:qlnhansu\\frmmdi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\qlnhansu\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|solutionrelative:qlnhansu\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\qlnhansu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|solutionrelative:qlnhansu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\qlnhansu\\controller\\chamcongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|solutionrelative:qlnhansu\\controller\\chamcongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|solutionrelative:QLNhansu\\frmLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\qlnhansu\\share\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|solutionrelative:qlnhansu\\share\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\qlnhansu\\view\\frmtrinhdohocvan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|solutionrelative:qlnhansu\\view\\frmtrinhdohocvan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\View\\frmTrinhdohocvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3295EC8-DAA4-4BEE-91C1-D88CB537B719}|QLNhansu\\QLNhansu.csproj|solutionrelative:QLNhansu\\View\\frmTrinhdohocvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "QLNhansu\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "QLNhansu\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADgvygAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:36:47.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmLogin.cs",
+              "RelativeDocumentMoniker": "QLNhansu\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmLogin.cs [Design]",
+              "RelativeToolTip": "QLNhansu\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:37:31.185Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMDI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmMDI.cs",
+              "RelativeDocumentMoniker": "QLNhansu\\frmMDI.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmMDI.cs [Design]",
+              "RelativeToolTip": "QLNhansu\\frmMDI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:20:51.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMDI.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmMDI.cs",
+              "RelativeDocumentMoniker": "QLNhansu\\frmMDI.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmMDI.cs",
+              "RelativeToolTip": "QLNhansu\\frmMDI.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvyQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:45:40.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmLogin.cs",
+              "RelativeDocumentMoniker": "QLNhansu\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmLogin.cs",
+              "RelativeToolTip": "QLNhansu\\frmLogin.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAADgvxwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:26:44.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmRegister.cs",
+              "RelativeDocumentMoniker": "QLNhansu\\frmRegister.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmRegister.cs [Design]",
+              "RelativeToolTip": "QLNhansu\\frmRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:54:36.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMDI.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmMDI.Designer.cs",
+              "RelativeDocumentMoniker": "QLNhansu\\frmMDI.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmMDI.Designer.cs",
+              "RelativeToolTip": "QLNhansu\\frmMDI.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:37:11.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\Program.cs",
+              "RelativeDocumentMoniker": "QLNhansu\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\Program.cs",
+              "RelativeToolTip": "QLNhansu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:07:13.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\Share\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "QLNhansu\\Share\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\Share\\DatabaseHelper.cs",
+              "RelativeToolTip": "QLNhansu\\Share\\DatabaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:35:20.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "QLNhansu\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\frmLogin.Designer.cs",
+              "RelativeToolTip": "QLNhansu\\frmLogin.Designer.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAADgv1UAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:16:56.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChamcongController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\Controller\\ChamcongController.cs",
+              "RelativeDocumentMoniker": "QLNhansu\\Controller\\ChamcongController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\Controller\\ChamcongController.cs",
+              "RelativeToolTip": "QLNhansu\\Controller\\ChamcongController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:07:30.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmTrinhdohocvan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\View\\frmTrinhdohocvan.Designer.cs",
+              "RelativeDocumentMoniker": "QLNhansu\\View\\frmTrinhdohocvan.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\View\\frmTrinhdohocvan.Designer.cs",
+              "RelativeToolTip": "QLNhansu\\View\\frmTrinhdohocvan.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:40:37.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmTrinhdohocvan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\View\\frmTrinhdohocvan.cs",
+              "RelativeDocumentMoniker": "QLNhansu\\View\\frmTrinhdohocvan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\View\\frmTrinhdohocvan.cs",
+              "RelativeToolTip": "QLNhansu\\View\\frmTrinhdohocvan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:45:26.077Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
