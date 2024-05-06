@@ -33,14 +33,6 @@
             panel1 = new Panel();
             btnHoTro = new Button();
             btnQLTaiChinh = new Button();
-            PnDKHP = new Panel();
-            button2 = new Button();
-            btnChamCong = new Button();
-            btnLichLamViec = new Button();
-            btnChucVu = new Button();
-            btnHocVan = new Button();
-            btnNghiPhep = new Button();
-            btnPhongBan = new Button();
             btnDKHP = new Button();
             panel2 = new Panel();
             labUserType = new Label();
@@ -49,7 +41,6 @@
             panel5 = new Panel();
             LabTitle = new Label();
             panel1.SuspendLayout();
-            PnDKHP.SuspendLayout();
             panel2.SuspendLayout();
             panel5.SuspendLayout();
             SuspendLayout();
@@ -76,7 +67,6 @@
             panel1.BackColor = Color.FromArgb(23, 21, 32);
             panel1.Controls.Add(btnHoTro);
             panel1.Controls.Add(btnQLTaiChinh);
-            panel1.Controls.Add(PnDKHP);
             panel1.Controls.Add(btnDKHP);
             panel1.Controls.Add(panel2);
             panel1.Controls.Add(btnClose);
@@ -95,7 +85,7 @@
             btnHoTro.FlatStyle = FlatStyle.Flat;
             btnHoTro.Font = new Font("Times New Roman", 11.25F, FontStyle.Regular, GraphicsUnit.Point);
             btnHoTro.ForeColor = Color.White;
-            btnHoTro.Location = new Point(0, 511);
+            btnHoTro.Location = new Point(0, 231);
             btnHoTro.Margin = new Padding(0);
             btnHoTro.Name = "btnHoTro";
             btnHoTro.Size = new Size(213, 53);
@@ -114,7 +104,7 @@
             btnQLTaiChinh.ForeColor = Color.White;
             btnQLTaiChinh.Image = (Image)resources.GetObject("btnQLTaiChinh.Image");
             btnQLTaiChinh.ImageAlign = ContentAlignment.MiddleRight;
-            btnQLTaiChinh.Location = new Point(0, 458);
+            btnQLTaiChinh.Location = new Point(0, 178);
             btnQLTaiChinh.Margin = new Padding(0);
             btnQLTaiChinh.Name = "btnQLTaiChinh";
             btnQLTaiChinh.Size = new Size(213, 53);
@@ -123,141 +113,6 @@
             btnQLTaiChinh.TextAlign = ContentAlignment.MiddleLeft;
             btnQLTaiChinh.UseVisualStyleBackColor = false;
             btnQLTaiChinh.Click += btnQLTaiChinh_Click;
-            // 
-            // PnDKHP
-            // 
-            PnDKHP.Controls.Add(button2);
-            PnDKHP.Controls.Add(btnChamCong);
-            PnDKHP.Controls.Add(btnLichLamViec);
-            PnDKHP.Controls.Add(btnChucVu);
-            PnDKHP.Controls.Add(btnHocVan);
-            PnDKHP.Controls.Add(btnNghiPhep);
-            PnDKHP.Controls.Add(btnPhongBan);
-            PnDKHP.Dock = DockStyle.Top;
-            PnDKHP.Location = new Point(0, 178);
-            PnDKHP.Margin = new Padding(3, 4, 3, 4);
-            PnDKHP.Name = "PnDKHP";
-            PnDKHP.Size = new Size(213, 280);
-            PnDKHP.TabIndex = 17;
-            // 
-            // button2
-            // 
-            button2.BackColor = Color.FromArgb(35, 32, 39);
-            button2.Dock = DockStyle.Top;
-            button2.FlatAppearance.BorderSize = 0;
-            button2.FlatStyle = FlatStyle.Flat;
-            button2.ForeColor = Color.White;
-            button2.Location = new Point(0, 240);
-            button2.Margin = new Padding(0);
-            button2.Name = "button2";
-            button2.Padding = new Padding(23, 0, 0, 0);
-            button2.Size = new Size(213, 40);
-            button2.TabIndex = 20;
-            button2.Text = "Thông tin nhân viên";
-            button2.TextAlign = ContentAlignment.MiddleLeft;
-            button2.UseVisualStyleBackColor = false;
-            // 
-            // btnChamCong
-            // 
-            btnChamCong.BackColor = Color.FromArgb(35, 32, 39);
-            btnChamCong.Dock = DockStyle.Top;
-            btnChamCong.FlatAppearance.BorderSize = 0;
-            btnChamCong.FlatStyle = FlatStyle.Flat;
-            btnChamCong.ForeColor = Color.White;
-            btnChamCong.Location = new Point(0, 200);
-            btnChamCong.Margin = new Padding(0);
-            btnChamCong.Name = "btnChamCong";
-            btnChamCong.Padding = new Padding(23, 0, 0, 0);
-            btnChamCong.Size = new Size(213, 40);
-            btnChamCong.TabIndex = 23;
-            btnChamCong.Text = "Chấm công";
-            btnChamCong.TextAlign = ContentAlignment.MiddleLeft;
-            btnChamCong.UseVisualStyleBackColor = false;
-            // 
-            // btnLichLamViec
-            // 
-            btnLichLamViec.BackColor = Color.FromArgb(35, 32, 39);
-            btnLichLamViec.Dock = DockStyle.Top;
-            btnLichLamViec.FlatAppearance.BorderSize = 0;
-            btnLichLamViec.FlatStyle = FlatStyle.Flat;
-            btnLichLamViec.ForeColor = Color.White;
-            btnLichLamViec.Location = new Point(0, 160);
-            btnLichLamViec.Margin = new Padding(0);
-            btnLichLamViec.Name = "btnLichLamViec";
-            btnLichLamViec.Padding = new Padding(23, 0, 0, 0);
-            btnLichLamViec.Size = new Size(213, 40);
-            btnLichLamViec.TabIndex = 22;
-            btnLichLamViec.Text = "Lịch làm việc";
-            btnLichLamViec.TextAlign = ContentAlignment.MiddleLeft;
-            btnLichLamViec.UseVisualStyleBackColor = false;
-            // 
-            // btnChucVu
-            // 
-            btnChucVu.BackColor = Color.FromArgb(35, 32, 39);
-            btnChucVu.Dock = DockStyle.Top;
-            btnChucVu.FlatAppearance.BorderSize = 0;
-            btnChucVu.FlatStyle = FlatStyle.Flat;
-            btnChucVu.ForeColor = Color.White;
-            btnChucVu.Location = new Point(0, 120);
-            btnChucVu.Margin = new Padding(0);
-            btnChucVu.Name = "btnChucVu";
-            btnChucVu.Padding = new Padding(23, 0, 0, 0);
-            btnChucVu.Size = new Size(213, 40);
-            btnChucVu.TabIndex = 26;
-            btnChucVu.Text = "Quản lý chức vụ";
-            btnChucVu.TextAlign = ContentAlignment.MiddleLeft;
-            btnChucVu.UseVisualStyleBackColor = false;
-            // 
-            // btnHocVan
-            // 
-            btnHocVan.BackColor = Color.FromArgb(35, 32, 39);
-            btnHocVan.Dock = DockStyle.Top;
-            btnHocVan.FlatAppearance.BorderSize = 0;
-            btnHocVan.FlatStyle = FlatStyle.Flat;
-            btnHocVan.ForeColor = Color.White;
-            btnHocVan.Location = new Point(0, 80);
-            btnHocVan.Margin = new Padding(0);
-            btnHocVan.Name = "btnHocVan";
-            btnHocVan.Padding = new Padding(23, 0, 0, 0);
-            btnHocVan.Size = new Size(213, 40);
-            btnHocVan.TabIndex = 24;
-            btnHocVan.Text = "Trình độ học vấn";
-            btnHocVan.TextAlign = ContentAlignment.MiddleLeft;
-            btnHocVan.UseVisualStyleBackColor = false;
-            // 
-            // btnNghiPhep
-            // 
-            btnNghiPhep.BackColor = Color.FromArgb(35, 32, 39);
-            btnNghiPhep.Dock = DockStyle.Top;
-            btnNghiPhep.FlatAppearance.BorderSize = 0;
-            btnNghiPhep.FlatStyle = FlatStyle.Flat;
-            btnNghiPhep.ForeColor = Color.White;
-            btnNghiPhep.Location = new Point(0, 40);
-            btnNghiPhep.Margin = new Padding(0);
-            btnNghiPhep.Name = "btnNghiPhep";
-            btnNghiPhep.Padding = new Padding(23, 0, 0, 0);
-            btnNghiPhep.Size = new Size(213, 40);
-            btnNghiPhep.TabIndex = 21;
-            btnNghiPhep.Text = "Lịch nghỉ phép";
-            btnNghiPhep.TextAlign = ContentAlignment.MiddleLeft;
-            btnNghiPhep.UseVisualStyleBackColor = false;
-            // 
-            // btnPhongBan
-            // 
-            btnPhongBan.BackColor = Color.FromArgb(35, 32, 39);
-            btnPhongBan.Dock = DockStyle.Top;
-            btnPhongBan.FlatAppearance.BorderSize = 0;
-            btnPhongBan.FlatStyle = FlatStyle.Flat;
-            btnPhongBan.ForeColor = Color.White;
-            btnPhongBan.Location = new Point(0, 0);
-            btnPhongBan.Margin = new Padding(0);
-            btnPhongBan.Name = "btnPhongBan";
-            btnPhongBan.Padding = new Padding(23, 0, 0, 0);
-            btnPhongBan.Size = new Size(213, 40);
-            btnPhongBan.TabIndex = 25;
-            btnPhongBan.Text = "Quản lý phòng ban";
-            btnPhongBan.TextAlign = ContentAlignment.MiddleLeft;
-            btnPhongBan.UseVisualStyleBackColor = false;
             // 
             // btnDKHP
             // 
@@ -356,7 +211,6 @@
             Name = "frmMDI";
             Text = "Quản lý nhân sự";
             panel1.ResumeLayout(false);
-            PnDKHP.ResumeLayout(false);
             panel2.ResumeLayout(false);
             panel2.PerformLayout();
             panel5.ResumeLayout(false);
@@ -372,14 +226,6 @@
         private Label LabTitle;
         private Panel panel2;
         internal Button btnQLTaiChinh;
-        private Panel PnDKHP;
-        internal Button button2;
-        internal Button btnChamCong;
-        internal Button btnLichLamViec;
-        internal Button btnChucVu;
-        internal Button btnHocVan;
-        internal Button btnNghiPhep;
-        internal Button btnPhongBan;
         internal Button btnDKHP;
         internal Button btnHoTro;
         private Label labUserType;

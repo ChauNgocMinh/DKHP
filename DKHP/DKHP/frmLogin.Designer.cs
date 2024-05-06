@@ -34,7 +34,6 @@
             txtPass = new TextBox();
             backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             btnLogin = new Button();
-            btnRegister = new Button();
             label3 = new Label();
             SuspendLayout();
             // 
@@ -85,17 +84,6 @@
             btnLogin.UseVisualStyleBackColor = true;
             btnLogin.Click += btnLogin_Click;
             // 
-            // btnRegister
-            // 
-            btnRegister.Font = new Font("Times New Roman", 15F, FontStyle.Regular, GraphicsUnit.Point);
-            btnRegister.Location = new Point(176, 390);
-            btnRegister.Name = "btnRegister";
-            btnRegister.Size = new Size(414, 42);
-            btnRegister.TabIndex = 5;
-            btnRegister.Text = "Chưa có tài khoản? Hãy đăng ký nào";
-            btnRegister.UseVisualStyleBackColor = true;
-            btnRegister.Click += btnRegister_Click;
-            // 
             // label3
             // 
             label3.AutoSize = true;
@@ -113,7 +101,6 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(706, 482);
             Controls.Add(label3);
-            Controls.Add(btnRegister);
             Controls.Add(btnLogin);
             Controls.Add(txtPass);
             Controls.Add(txtUserName);
@@ -133,7 +120,6 @@
         private TextBox txtPass;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private Button btnLogin;
-        private Button btnRegister;
         private Label label3;
     }
 }

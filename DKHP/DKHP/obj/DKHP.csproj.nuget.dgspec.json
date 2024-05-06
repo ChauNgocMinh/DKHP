@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\DKHP.csproj": {}
+    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\QUANLYNHANSU\\DKHP\\DKHP\\DKHP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\DKHP.csproj": {
+    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\QUANLYNHANSU\\DKHP\\DKHP\\DKHP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\DKHP.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\QUANLYNHANSU\\DKHP\\DKHP\\DKHP.csproj",
         "projectName": "DKHP",
-        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\DKHP.csproj",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\QUANLYNHANSU\\DKHP\\DKHP\\DKHP.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\QUANLYNHANSU\\DKHP\\DKHP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"

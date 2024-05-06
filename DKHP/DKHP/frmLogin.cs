@@ -11,14 +11,6 @@ namespace DKHP
             InitializeComponent();
         }
 
-        private void btnRegister_Click(object sender, EventArgs e)
-        {
-            //Chuyển đến form đăng ký
-            frmRegister rgt = new frmRegister();
-            rgt.Show();
-            this.Hide();
-        }
-
         private void btnLogin_Click(object sender, EventArgs e)
         {
             string userName = txtUserName.Text;

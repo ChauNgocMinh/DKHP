@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DKHP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2870b55751064ef6a921bf45e6d5c4bb0627fbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("DKHP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DKHP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

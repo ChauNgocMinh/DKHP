@@ -1,0 +1,12 @@
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\DKHP\DKHP\obj\Debug\net7.0-windows\DKHP.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\DKHP\DKHP\obj\Debug\net7.0-windows\DKHP.frmLogin.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\DKHP\DKHP\obj\Debug\net7.0-windows\DKHP.frmMDI.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\DKHP\DKHP\obj\Debug\net7.0-windows\QLNhansu.frmRegister.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\DKHP\DKHP\obj\Debug\net7.0-windows\DKHP.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\DKHP\DKHP\obj\Debug\net7.0-windows\DKHP.View.frmQLHocPhan.resources
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\DKHP\DKHP\obj\Debug\net7.0-windows\DKHP.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\DKHP\DKHP\obj\Debug\net7.0-windows\DKHP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\DKHP\DKHP\obj\Debug\net7.0-windows\DKHP.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\DKHP\DKHP\obj\Debug\net7.0-windows\DKHP.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\DKHP\DKHP\obj\Debug\net7.0-windows\DKHP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\QUANLYNHANSU\DKHP\DKHP\obj\Debug\net7.0-windows\DKHP.sourcelink.json

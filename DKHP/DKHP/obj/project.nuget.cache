@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r11WEBFF76tRL1krhpZbh7BvZd9FrNek6Oj0TtjFyUsxnwNl1IRcMIWSBaeRLRpiJPxWCPRfIB/gB1gspvRuFg==",
+  "dgSpecHash": "M5VrhylJWKejyVy8EDhCQ1lbcWUUZhkYgnlofnLb8keFT/360zREDuJwPqgxnjJLPHS2Km1CgROOwuEKcEkc+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\QUANLYNHANSU\\QLNhansu\\QLNhansu\\DKHP.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\QUANLYNHANSU\\DKHP\\DKHP\\DKHP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
